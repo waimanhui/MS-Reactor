@@ -2,6 +2,8 @@
 
 | Date | Title | Recording | Deck |
 | --- | --- | --- | --- |
+| 2025/11/04 | Enabling Scalable AI Workflows with Intelligent Agent Design | https://www.youtube.com/watch?v=CniwIrbFP7o | [20251104 Enabling Scalable AI Workflows with Intelligent Agent Design.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20251104%20Enabling%20Scalable%20AI%20Workflows%20with%20Intelligent%20Agent%20Design.pptx) |
+| 2025/08/27 | End to End AI development with Azure AI Foundry | https://www.youtube.com/watch?v=p8hLXdf9dew | [20250827 End to End AI development with Azure AI Foundry.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20250827%20End%20to%20End%20AI%20development%20with%20Azure%20AI%20Foundry.pptx) |
 | 2025/07/03 | Exploring the Agent landscape | https://www.youtube.com/watch?v=IIQ3w4N-Cfc | [20250703 Exploring the Agent landscape.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20250703%20Exploring%20the%20Agent%20landscape.pptx) |
 | 2025/05/06 | Boost Developer Productivity with GitHub and Azure | https://www.youtube.com/live/43soEEQLftI?si=38PCclp-vpeaqxQo&t=296 | [20250506 Boost Developer Productivity with GitHub and Azure.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20250506%20Boost%20Developer%20Productivity%20with%20GitHub%20and%20Azure.pptx) |
 | 2025/02/28 | Multimodel Mutlimodal and Multiagent with Azure | https://www.youtube.com/live/-Cd2clIKeBY | [20250228 Multimodel Multimodal and Multiagent with Azure.pptx](/decks/20250228%20Multimodel%20Multimodal%20and%20Multiagent%20with%20Azure.pptx) |
