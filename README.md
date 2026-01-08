@@ -2,6 +2,7 @@
 
 | Date | Title | Recording | Deck |
 | --- | --- | --- | --- |
+| 2026/01/07 | Microsoft Ignite 2025 Highlights | https://www.youtube.com/watch?v=2T0oRFhQKD0 | [20260107 Microsoft Ignite 2025 Highlights.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20260107%20Microsoft%20Ignite%202025%20Highlights.pptx) |
 | 2025/11/04 | Enabling Scalable AI Workflows with Intelligent Agent Design | https://www.youtube.com/watch?v=CniwIrbFP7o | [20251104 Enabling Scalable AI Workflows with Intelligent Agent Design.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20251104%20Enabling%20Scalable%20AI%20Workflows%20with%20Intelligent%20Agent%20Design.pptx) |
 | 2025/08/27 | End to End AI development with Azure AI Foundry | https://www.youtube.com/watch?v=p8hLXdf9dew | [20250827 End to End AI development with Azure AI Foundry.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20250827%20End%20to%20End%20AI%20development%20with%20Azure%20AI%20Foundry.pptx) |
 | 2025/07/03 | Exploring the Agent landscape | https://www.youtube.com/watch?v=IIQ3w4N-Cfc | [20250703 Exploring the Agent landscape.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20250703%20Exploring%20the%20Agent%20landscape.pptx) |
