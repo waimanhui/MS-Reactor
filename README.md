@@ -2,6 +2,7 @@
 
 | Date | Title | Recording | Deck |
 | --- | --- | --- | --- |
+| 2026/09/09 | Build, Run, and Govern AI Agents on Azure | https://www.youtube.com/watch?v=l1s-__qiXiU | [20260909 Build, Run, and Govern AI Agents on Azure.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20260909%20Build,%20Run,%20and%20Govern%20AI%20Agents%20on%20Azure.pptx) |
 | 2026/06/16 | Microsoft Build 2026 Highlights | https://www.youtube.com/watch?v=rUxaf6ESWMw | [20260616 Microsoft Build 2026 Highlights.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20260616%20Microsoft%20Build%202026%20Highlights.pptx) |
 | 2026/01/07 | Microsoft Ignite 2025 Highlights | https://www.youtube.com/watch?v=2T0oRFhQKD0 | [20260107 Microsoft Ignite 2025 Highlights.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20260107%20Microsoft%20Ignite%202025%20Highlights.pptx) |
 | 2025/11/04 | Enabling Scalable AI Workflows with Intelligent Agent Design | https://www.youtube.com/watch?v=CniwIrbFP7o | [20251104 Enabling Scalable AI Workflows with Intelligent Agent Design.pptx](https://storageenablemensession.z7.web.core.windows.net/rector/20251104%20Enabling%20Scalable%20AI%20Workflows%20with%20Intelligent%20Agent%20Design.pptx) |
